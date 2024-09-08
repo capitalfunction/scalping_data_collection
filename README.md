@@ -1,4 +1,6 @@
 **Scalping Data Pipeline****
+
+
 **Objective:**
 - There is a data restriction on yfinance to download 1m data. 
 - In order for Machine Learning algorithms to aviod overfitting, the least that can be done is have more data.
