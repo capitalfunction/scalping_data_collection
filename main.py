@@ -1,6 +1,5 @@
 from database_operations import save_to_parquet, update_scalping_database, read_parquet_data
 from data_scrape import scalping_data
-from data_construction_and_preproccess.preprocess import convert_to_new_york_timezone
 import logging
 
 log_file_path = '.log'
