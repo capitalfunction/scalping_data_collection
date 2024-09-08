@@ -149,14 +149,14 @@ Make sure to have the following Python libraries installed:
   
 
 
-**## 4. Logging**
+**### 4. Logging**
 
-### Logs are stored in a log file specified in `main.py`. Ensure that the path is correctly set and accessible.
+## Logs are stored in a log file specified in `main.py`. Ensure that the path is correctly set and accessible.
 
-**## 5. Troubleshooting**
+**### 5. Troubleshooting**
 ### Steps
 - Ensure that Python and all required libraries are properly installed.
 - Verify that file paths and folder permissions are correctly set.
 - If there are any errors, check the log file for detailed error messages.
 
-```
+
