@@ -142,8 +142,8 @@ Make sure to have the following Python libraries installed:
 - `pandas`
 - `yfinance`
 - `pyarrow` (for Parquet support)
-- fastparquet
-- os
+- 'fastparquet'
+- 'os'
   
 ```
 
