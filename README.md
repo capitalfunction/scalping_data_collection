@@ -147,7 +147,7 @@ Make sure to have the following Python libraries installed:
 - 'fastparquet'
 - 'os'
   
-```
+
 
 **## 4. Logging**
 
